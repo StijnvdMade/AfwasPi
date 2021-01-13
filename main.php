@@ -30,10 +30,10 @@
 
 <?php
 
-$host = '127.0.0.1';
-$db   = 'afwas';
+$host = 'localhost:3306';
+$db   = 'Afwas';
 $user = 'root';
-$pass = '';
+$pass = 'password';
 $charset = 'utf8mb4';
 
 $dsn = "mysql:host=$host;dbname=$db;charset=$charset";
