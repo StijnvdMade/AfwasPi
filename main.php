@@ -30,7 +30,7 @@
 
 <?php
 
-$host = 'localhost:3306';
+$host = 'localhost';
 $db   = 'Afwas';
 $user = 'root';
 $pass = 'password';
